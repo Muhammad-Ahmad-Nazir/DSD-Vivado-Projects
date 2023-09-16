@@ -1,0 +1,13 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../Lab13_Task1.srcs/sources_1/new/Adder_8bit.v" \
+"../../../../Lab13_Task1.srcs/sources_1/new/MUX_2x1.v" \
+"../../../../Lab13_Task1.srcs/sources_1/new/Multiplier_8x8.v" \
+"../../../../Lab13_Task1.srcs/sources_1/new/Time_shared_16x16_multiplier.v" \
+"../../../../Lab13_Task1.srcs/sim_1/new/Time_shared_16x16_multiplier_Sim.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

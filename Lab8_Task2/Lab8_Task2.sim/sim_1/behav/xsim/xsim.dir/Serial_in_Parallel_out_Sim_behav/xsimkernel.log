@@ -1,0 +1,7 @@
+Running: xsim.dir/Serial_in_Parallel_out_Sim_behav/xsimk.exe -simmode gui -wdb Serial_in_Parallel_out_Sim_behav.wdb -simrunnum 0 -socket 2047
+Design successfully loaded
+Design Loading Memory Usage: 6492 KB (Peak: 6492 KB)
+Design Loading CPU Usage: 46 ms
+Simulation completed
+Simulation Memory Usage: 7104 KB (Peak: 7104 KB)
+Simulation CPU Usage: 46 ms

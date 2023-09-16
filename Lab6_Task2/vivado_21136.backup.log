@@ -1,0 +1,43 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Sun Jun 18 01:10:37 2023
+# Process ID: 21136
+# Current directory: C:/Users/Asif/VivadoProjects/Lab6_Task2
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent7728 C:\Users\Asif\VivadoProjects\Lab6_Task2\Lab6_Task2.xpr
+# Log file: C:/Users/Asif/VivadoProjects/Lab6_Task2/vivado.log
+# Journal file: C:/Users/Asif/VivadoProjects/Lab6_Task2\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/Asif/VivadoProjects/Lab6_Task2/Lab6_Task2.xpr
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'D:/Xilinx/Vivado/2019.1/data/ip'.
+open_project: Time (s): cpu = 00:00:21 ; elapsed = 00:00:10 . Memory (MB): peak = 841.141 ; gain = 189.805
+update_compile_order -fileset sources_1
+add_files -fileset constrs_1 -norecurse C:/Users/Asif/VivadoProjects/Lab6_Task2/Basys-3-Master.xdc
+launch_runs synth_1 -jobs 4
+[Sun Jun 18 01:14:01 2023] Launched synth_1...
+Run output will be captured here: C:/Users/Asif/VivadoProjects/Lab6_Task2/Lab6_Task2.runs/synth_1/runme.log
+reset_run synth_1
+launch_runs synth_1 -jobs 4
+[Sun Jun 18 01:16:35 2023] Launched synth_1...
+Run output will be captured here: C:/Users/Asif/VivadoProjects/Lab6_Task2/Lab6_Task2.runs/synth_1/runme.log
+launch_runs impl_1 -jobs 4
+[Sun Jun 18 01:18:02 2023] Launched impl_1...
+Run output will be captured here: C:/Users/Asif/VivadoProjects/Lab6_Task2/Lab6_Task2.runs/impl_1/runme.log
+reset_run synth_1
+WARNING: [Vivado 12-1017] Problems encountered:
+1. Failed to delete one or more files in run directory C:/Users/Asif/VivadoProjects/Lab6_Task2/Lab6_Task2.runs/synth_1
+
+launch_runs synth_1 -jobs 4
+[Sun Jun 18 01:18:31 2023] Launched synth_1...
+Run output will be captured here: C:/Users/Asif/VivadoProjects/Lab6_Task2/Lab6_Task2.runs/synth_1/runme.log
+launch_runs impl_1 -jobs 4
+[Sun Jun 18 01:21:20 2023] Launched impl_1...
+Run output will be captured here: C:/Users/Asif/VivadoProjects/Lab6_Task2/Lab6_Task2.runs/impl_1/runme.log
+exit
+INFO: [Common 17-206] Exiting Vivado at Sun Jun 18 01:23:20 2023...

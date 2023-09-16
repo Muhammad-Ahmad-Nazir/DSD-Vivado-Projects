@@ -1,0 +1,11 @@
+0.6
+2019.1
+May 24 2019
+15:06:07
+C:/Users/Asif/VivadoProjects/Lab11_Task1/Lab11_Task1.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+C:/Users/Asif/VivadoProjects/Lab11_Task1/Lab11_Task1.srcs/sim_1/new/Bit_serial_adder_Sim.v,1687169029,verilog,,,,Bit_serial_adder_Sim,,,,,,,,
+C:/Users/Asif/VivadoProjects/Lab11_Task1/Lab11_Task1.srcs/sources_1/new/Bit_serial_adder.v,1687171219,verilog,,C:/Users/Asif/VivadoProjects/Lab11_Task1/Lab11_Task1.srcs/sources_1/new/D_flipflop.v,,Bit_serial_adder,,,,,,,,
+C:/Users/Asif/VivadoProjects/Lab11_Task1/Lab11_Task1.srcs/sources_1/new/D_flipflop.v,1687168338,verilog,,C:/Users/Asif/VivadoProjects/Lab11_Task1/Lab11_Task1.srcs/sources_1/new/Full_adder.v,,D_flipflop,,,,,,,,
+C:/Users/Asif/VivadoProjects/Lab11_Task1/Lab11_Task1.srcs/sources_1/new/Full_adder.v,1687168719,verilog,,C:/Users/Asif/VivadoProjects/Lab11_Task1/Lab11_Task1.srcs/sources_1/new/Parallel_in_Serial_out.v,,Full_adder,,,,,,,,
+C:/Users/Asif/VivadoProjects/Lab11_Task1/Lab11_Task1.srcs/sources_1/new/Parallel_in_Serial_out.v,1687169187,verilog,,C:/Users/Asif/VivadoProjects/Lab11_Task1/Lab11_Task1.srcs/sources_1/new/Serial_in_Parallel_out.v,,Parallel_in_Serial_out,,,,,,,,
+C:/Users/Asif/VivadoProjects/Lab11_Task1/Lab11_Task1.srcs/sources_1/new/Serial_in_Parallel_out.v,1687168447,verilog,,C:/Users/Asif/VivadoProjects/Lab11_Task1/Lab11_Task1.srcs/sim_1/new/Bit_serial_adder_Sim.v,,Serial_in_Parallel_out,,,,,,,,

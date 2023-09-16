@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Fri Jun 16 12:26:21 2023
+# Process ID: 17596
+# Current directory: C:/Users/Asif/VivadoProjects/Lab10_Task1/Lab10_Task1.sim/sim_1/behav/xsim
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent18388 C:\Users\Asif\VivadoProjects\Lab10_Task1\Lab10_Task1.sim\sim_1\behav\xsim\Uniform_adder_Sim_behav.wdb
+# Log file: C:/Users/Asif/VivadoProjects/Lab10_Task1/Lab10_Task1.sim/sim_1/behav/xsim/vivado.log
+# Journal file: C:/Users/Asif/VivadoProjects/Lab10_Task1/Lab10_Task1.sim/sim_1/behav/xsim\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_wave_database {C:\Users\Asif\VivadoProjects\Lab10_Task1\Lab10_Task1.sim\sim_1\behav\xsim\Uniform_adder_Sim_behav.wdb}

@@ -1,0 +1,25 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Fri Jun 16 12:26:21 2023
+# Process ID: 17596
+# Current directory: C:/Users/Asif/VivadoProjects/Lab10_Task1/Lab10_Task1.sim/sim_1/behav/xsim
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent18388 C:\Users\Asif\VivadoProjects\Lab10_Task1\Lab10_Task1.sim\sim_1\behav\xsim\Uniform_adder_Sim_behav.wdb
+# Log file: C:/Users/Asif/VivadoProjects/Lab10_Task1/Lab10_Task1.sim/sim_1/behav/xsim/vivado.log
+# Journal file: C:/Users/Asif/VivadoProjects/Lab10_Task1/Lab10_Task1.sim/sim_1/behav/xsim\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_wave_database {C:\Users\Asif\VivadoProjects\Lab10_Task1\Lab10_Task1.sim\sim_1\behav\xsim\Uniform_adder_Sim_behav.wdb}
+INFO: [Common 17-41] Interrupt caught. Command should exit soon.
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2338] Canceling the changes to the IP catalog. Reverting the catalog back to its previous state.
+INFO: [IP_Flow 19-2340] The IP catalog has been returned to its previous state.
+current_fileset: Time (s): cpu = 00:00:11 ; elapsed = 00:00:07 . Memory (MB): peak = 782.098 ; gain = 147.066
+INFO: [Common 17-344] 'current_fileset' was cancelled
+INFO: [Common 17-344] 'open_wave_database' was cancelled
+1
+INFO: [Common 17-344] 'rdi::open_ppr_or_dcp' was cancelled
+exit
+INFO: [Common 17-206] Exiting Vivado at Fri Jun 16 12:26:55 2023...

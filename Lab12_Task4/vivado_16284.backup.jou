@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Tue Jun 20 16:42:41 2023
+# Process ID: 16284
+# Current directory: C:/Users/Asif/VivadoProjects/Lab12_Task4
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent736 C:\Users\Asif\VivadoProjects\Lab12_Task4\Lab12_Task4.xpr
+# Log file: C:/Users/Asif/VivadoProjects/Lab12_Task4/vivado.log
+# Journal file: C:/Users/Asif/VivadoProjects/Lab12_Task4\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/Asif/VivadoProjects/Lab12_Task4/Lab12_Task4.xpr
+update_compile_order -fileset sources_1
+launch_simulation
+source Array_multiplier_Sim.tcl
+close_sim
+close_project
+create_project Lab12_Task3 C:/Users/Asif/VivadoProjects/Lab12_Task3 -part xc7a35tcpg236-1
+set_property board_part digilentinc.com:basys3:part0:1.2 [current_project]
+file mkdir C:/Users/Asif/VivadoProjects/Lab12_Task3/Lab12_Task3.srcs/sources_1/new
+close [ open C:/Users/Asif/VivadoProjects/Lab12_Task3/Lab12_Task3.srcs/sources_1/new/Array_multiplier.v w ]
+add_files C:/Users/Asif/VivadoProjects/Lab12_Task3/Lab12_Task3.srcs/sources_1/new/Array_multiplier.v
+update_compile_order -fileset sources_1

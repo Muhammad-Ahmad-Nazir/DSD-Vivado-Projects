@@ -1,0 +1,7 @@
+Running: xsim.dir/Mealy_sequence_detector_Sim_behav/xsimk.exe -simmode gui -wdb Mealy_sequence_detector_Sim_behav.wdb -simrunnum 0 -socket 2003
+Design successfully loaded
+Design Loading Memory Usage: 5964 KB (Peak: 5964 KB)
+Design Loading CPU Usage: 15 ms
+Simulation completed
+Simulation Memory Usage: 6544 KB (Peak: 6544 KB)
+Simulation CPU Usage: 15 ms

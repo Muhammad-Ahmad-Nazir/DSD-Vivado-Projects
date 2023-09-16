@@ -1,0 +1,7 @@
+Running: xsim.dir/Nested_Loadable_Counter_Sim_behav/xsimk.exe -simmode gui -wdb Nested_Loadable_Counter_Sim_behav.wdb -simrunnum 0 -socket 15221
+Design successfully loaded
+Design Loading Memory Usage: 6000 KB (Peak: 6000 KB)
+Design Loading CPU Usage: 46 ms
+Simulation completed
+Simulation Memory Usage: 6580 KB (Peak: 6580 KB)
+Simulation CPU Usage: 46 ms

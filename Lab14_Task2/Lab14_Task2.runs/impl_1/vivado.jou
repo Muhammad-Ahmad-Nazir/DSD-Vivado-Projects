@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Thu Jun 22 11:18:33 2023
+# Process ID: 20652
+# Current directory: C:/Users/Asif/VivadoProjects/Lab14_Task2/Lab14_Task2.runs/impl_1
+# Command line: vivado.exe -log Moore_sequence_detector.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source Moore_sequence_detector.tcl -notrace
+# Log file: C:/Users/Asif/VivadoProjects/Lab14_Task2/Lab14_Task2.runs/impl_1/Moore_sequence_detector.vdi
+# Journal file: C:/Users/Asif/VivadoProjects/Lab14_Task2/Lab14_Task2.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source Moore_sequence_detector.tcl -notrace

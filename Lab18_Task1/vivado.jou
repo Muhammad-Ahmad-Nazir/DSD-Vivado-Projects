@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Tue Jul  4 15:53:31 2023
+# Process ID: 13888
+# Current directory: C:/Users/Asif/VivadoProjects/Lab18_Task1
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent496 C:\Users\Asif\VivadoProjects\Lab18_Task1\Lab18_Task1.xpr
+# Log file: C:/Users/Asif/VivadoProjects/Lab18_Task1/vivado.log
+# Journal file: C:/Users/Asif/VivadoProjects/Lab18_Task1\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/Asif/VivadoProjects/Lab18_Task1/Lab18_Task1.xpr
+update_compile_order -fileset sources_1

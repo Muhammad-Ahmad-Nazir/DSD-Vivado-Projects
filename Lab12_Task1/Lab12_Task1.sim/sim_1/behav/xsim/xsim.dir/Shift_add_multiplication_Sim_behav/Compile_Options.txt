@@ -1,0 +1,1 @@
+-wto "2ef2cca951be4694b7dcb3f1fb93e8b3" --incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "unisims_ver" -L "unimacro_ver" -L "secureip" --snapshot "Shift_add_multiplication_Sim_behav" "xil_defaultlib.Shift_add_multiplication_Sim" "xil_defaultlib.glbl" -log "elaborate.log" 

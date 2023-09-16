@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Fri Jun 23 10:50:10 2023
+# Process ID: 14064
+# Current directory: C:/Users/Asif/VivadoProjects/Lab15_Task1/Lab15_Task1.runs/synth_1
+# Command line: vivado.exe -log Sequence_detector.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source Sequence_detector.tcl
+# Log file: C:/Users/Asif/VivadoProjects/Lab15_Task1/Lab15_Task1.runs/synth_1/Sequence_detector.vds
+# Journal file: C:/Users/Asif/VivadoProjects/Lab15_Task1/Lab15_Task1.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source Sequence_detector.tcl -notrace

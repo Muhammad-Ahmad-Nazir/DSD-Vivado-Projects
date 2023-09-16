@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Sun Jun 18 22:30:46 2023
+# Process ID: 5492
+# Current directory: C:/Users/Asif/VivadoProjects/Lab8_Task5/Lab8_Task5.runs/synth_1
+# Command line: vivado.exe -log Ring_counter.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source Ring_counter.tcl
+# Log file: C:/Users/Asif/VivadoProjects/Lab8_Task5/Lab8_Task5.runs/synth_1/Ring_counter.vds
+# Journal file: C:/Users/Asif/VivadoProjects/Lab8_Task5/Lab8_Task5.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source Ring_counter.tcl -notrace

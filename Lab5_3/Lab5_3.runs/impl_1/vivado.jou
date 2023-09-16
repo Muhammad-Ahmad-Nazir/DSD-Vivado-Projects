@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Sun Jun 18 01:07:52 2023
+# Process ID: 11556
+# Current directory: C:/Users/Asif/VivadoProjects/Lab5_3/Lab5_3.runs/impl_1
+# Command line: vivado.exe -log Decoder_3x8.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source Decoder_3x8.tcl -notrace
+# Log file: C:/Users/Asif/VivadoProjects/Lab5_3/Lab5_3.runs/impl_1/Decoder_3x8.vdi
+# Journal file: C:/Users/Asif/VivadoProjects/Lab5_3/Lab5_3.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source Decoder_3x8.tcl -notrace

@@ -1,0 +1,10 @@
+0.6
+2019.1
+May 24 2019
+15:06:07
+C:/Users/Asif/VivadoProjects/Lab13_Task1/Lab13_Task1.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+C:/Users/Asif/VivadoProjects/Lab13_Task1/Lab13_Task1.srcs/sim_1/new/Time_shared_16x16_multiplier_Sim.v,1687333679,verilog,,,,Time_shared_16x16_multiplier_Sim,,,,,,,,
+C:/Users/Asif/VivadoProjects/Lab13_Task1/Lab13_Task1.srcs/sources_1/new/Adder_8bit.v,1687326256,verilog,,C:/Users/Asif/VivadoProjects/Lab13_Task1/Lab13_Task1.srcs/sources_1/new/MUX_2x1.v,,Adder_8bit,,,,,,,,
+C:/Users/Asif/VivadoProjects/Lab13_Task1/Lab13_Task1.srcs/sources_1/new/MUX_2x1.v,1687331050,verilog,,C:/Users/Asif/VivadoProjects/Lab13_Task1/Lab13_Task1.srcs/sources_1/new/Multiplier_8x8.v,,MUX_2x1,,,,,,,,
+C:/Users/Asif/VivadoProjects/Lab13_Task1/Lab13_Task1.srcs/sources_1/new/Multiplier_8x8.v,1687332102,verilog,,C:/Users/Asif/VivadoProjects/Lab13_Task1/Lab13_Task1.srcs/sources_1/new/Time_shared_16x16_multiplier.v,,Multiplier_8x8,,,,,,,,
+C:/Users/Asif/VivadoProjects/Lab13_Task1/Lab13_Task1.srcs/sources_1/new/Time_shared_16x16_multiplier.v,1687333318,verilog,,C:/Users/Asif/VivadoProjects/Lab13_Task1/Lab13_Task1.srcs/sim_1/new/Time_shared_16x16_multiplier_Sim.v,,Time_shared_16x16_multiplier,,,,,,,,

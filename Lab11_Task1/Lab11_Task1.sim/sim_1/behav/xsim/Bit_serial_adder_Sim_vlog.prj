@@ -1,0 +1,14 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../Lab11_Task1.srcs/sources_1/new/Bit_serial_adder.v" \
+"../../../../Lab11_Task1.srcs/sources_1/new/D_flipflop.v" \
+"../../../../Lab11_Task1.srcs/sources_1/new/Full_adder.v" \
+"../../../../Lab11_Task1.srcs/sources_1/new/Parallel_in_Serial_out.v" \
+"../../../../Lab11_Task1.srcs/sources_1/new/Serial_in_Parallel_out.v" \
+"../../../../Lab11_Task1.srcs/sim_1/new/Bit_serial_adder_Sim.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

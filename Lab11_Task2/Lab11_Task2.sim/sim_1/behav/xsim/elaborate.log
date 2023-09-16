@@ -1,0 +1,17 @@
+Vivado Simulator 2019.1
+Copyright 1986-1999, 2001-2019 Xilinx, Inc. All Rights Reserved.
+Running: D:/Xilinx/Vivado/2019.1/bin/unwrapped/win64.o/xelab.exe -wto 16aad837556b4335a02c887ddf25ab81 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot Conditional_adder_sum_Sim_behav xil_defaultlib.Conditional_adder_sum_Sim xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.MUX_4x1
+Compiling module xil_defaultlib.Conditional_adder_module
+Compiling module xil_defaultlib.D_flipflop
+Compiling module xil_defaultlib.DMUX_1x4
+Compiling module xil_defaultlib.Conditional_sum_adder
+Compiling module xil_defaultlib.Conditional_adder_sum_Sim
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot Conditional_adder_sum_Sim_behav

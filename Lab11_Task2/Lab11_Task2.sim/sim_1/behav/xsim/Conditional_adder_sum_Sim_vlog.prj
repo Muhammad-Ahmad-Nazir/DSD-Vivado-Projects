@@ -1,0 +1,14 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../Lab11_Task2.srcs/sources_1/new/Conditional_adder_module.v" \
+"../../../../Lab11_Task2.srcs/sources_1/new/Conditional_sum_adder.v" \
+"../../../../Lab11_Task2.srcs/sources_1/new/DMUX_1x4.v" \
+"../../../../Lab11_Task2.srcs/sources_1/new/D_flipflop.v" \
+"../../../../Lab11_Task2.srcs/sources_1/new/MUX_4x1.v" \
+"../../../../Lab11_Task2.srcs/sim_1/new/Conditional_adder_sum_Sim.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

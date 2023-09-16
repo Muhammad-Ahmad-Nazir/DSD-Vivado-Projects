@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Sun Jun 18 01:27:04 2023
+# Process ID: 15120
+# Current directory: C:/Users/Asif/VivadoProjects/Lab6_Task4/Lab6_Task4.runs/impl_1
+# Command line: vivado.exe -log Encoder_4x2.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source Encoder_4x2.tcl -notrace
+# Log file: C:/Users/Asif/VivadoProjects/Lab6_Task4/Lab6_Task4.runs/impl_1/Encoder_4x2.vdi
+# Journal file: C:/Users/Asif/VivadoProjects/Lab6_Task4/Lab6_Task4.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source Encoder_4x2.tcl -notrace

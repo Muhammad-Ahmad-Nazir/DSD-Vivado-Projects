@@ -1,0 +1,52 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Tue Jun 20 16:50:39 2023
+# Process ID: 18592
+# Current directory: C:/Users/Asif/VivadoProjects/Lab5_1
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent18756 C:\Users\Asif\VivadoProjects\Lab5_1\Lab5_1.xpr
+# Log file: C:/Users/Asif/VivadoProjects/Lab5_1/vivado.log
+# Journal file: C:/Users/Asif/VivadoProjects/Lab5_1\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/Asif/VivadoProjects/Lab5_1/Lab5_1.xpr
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'D:/Xilinx/Vivado/2019.1/data/ip'.
+open_project: Time (s): cpu = 00:00:18 ; elapsed = 00:00:07 . Memory (MB): peak = 871.945 ; gain = 191.555
+update_compile_order -fileset sources_1
+open_run synth_1 -name synth_1
+Design is defaulting to impl run constrset: constrs_1
+Design is defaulting to synth run part: xc7a35tcpg236-1
+INFO: [Device 21-403] Loading part xc7a35tcpg236-1
+INFO: [Project 1-479] Netlist was created with Vivado 2019.1
+INFO: [Project 1-570] Preparing netlist for logic optimization
+Parsing XDC File [C:/Users/Asif/VivadoProjects/Lab5_1/Basys-3-Master.xdc]
+Finished Parsing XDC File [C:/Users/Asif/VivadoProjects/Lab5_1/Basys-3-Master.xdc]
+INFO: [Opt 31-138] Pushed 0 inverter(s) to 0 load pin(s).
+Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00 . Memory (MB): peak = 1171.699 ; gain = 0.000
+INFO: [Project 1-111] Unisim Transformation Summary:
+No Unisim elements were transformed.
+
+open_run: Time (s): cpu = 00:00:20 ; elapsed = 00:00:11 . Memory (MB): peak = 1300.539 ; gain = 384.508
+create_bd_design "design_1"
+Wrote  : <C:\Users\Asif\VivadoProjects\Lab5_1\Lab5_1.srcs\sources_1\bd\design_1\design_1.bd> 
+create_bd_design: Time (s): cpu = 00:00:07 ; elapsed = 00:00:09 . Memory (MB): peak = 1823.355 ; gain = 46.965
+update_compile_order -fileset sources_1
+generate_target all [get_files  C:/Users/Asif/VivadoProjects/Lab5_1/Lab5_1.srcs/sources_1/bd/design_1/design_1.bd]
+Wrote  : <C:\Users\Asif\VivadoProjects\Lab5_1\Lab5_1.srcs\sources_1\bd\design_1\design_1.bd> 
+Wrote  : <C:/Users/Asif/VivadoProjects/Lab5_1/Lab5_1.srcs/sources_1/bd/design_1/ui/bd_1f5defd0.ui> 
+VHDL Output written to : C:/Users/Asif/VivadoProjects/Lab5_1/Lab5_1.srcs/sources_1/bd/design_1/synth/design_1.v
+VHDL Output written to : C:/Users/Asif/VivadoProjects/Lab5_1/Lab5_1.srcs/sources_1/bd/design_1/sim/design_1.v
+VHDL Output written to : C:/Users/Asif/VivadoProjects/Lab5_1/Lab5_1.srcs/sources_1/bd/design_1/hdl/design_1_wrapper.v
+Exporting to file C:/Users/Asif/VivadoProjects/Lab5_1/Lab5_1.srcs/sources_1/bd/design_1/hw_handoff/design_1.hwh
+Generated Block Design Tcl file C:/Users/Asif/VivadoProjects/Lab5_1/Lab5_1.srcs/sources_1/bd/design_1/hw_handoff/design_1_bd.tcl
+Generated Hardware Definition File C:/Users/Asif/VivadoProjects/Lab5_1/Lab5_1.srcs/sources_1/bd/design_1/synth/design_1.hwdef
+export_ip_user_files -of_objects [get_files C:/Users/Asif/VivadoProjects/Lab5_1/Lab5_1.srcs/sources_1/bd/design_1/design_1.bd] -no_script -sync -force -quiet
+create_ip_run [get_files -of_objects [get_fileset sources_1] C:/Users/Asif/VivadoProjects/Lab5_1/Lab5_1.srcs/sources_1/bd/design_1/design_1.bd]
+export_simulation -of_objects [get_files C:/Users/Asif/VivadoProjects/Lab5_1/Lab5_1.srcs/sources_1/bd/design_1/design_1.bd] -directory C:/Users/Asif/VivadoProjects/Lab5_1/Lab5_1.ip_user_files/sim_scripts -ip_user_files_dir C:/Users/Asif/VivadoProjects/Lab5_1/Lab5_1.ip_user_files -ipstatic_source_dir C:/Users/Asif/VivadoProjects/Lab5_1/Lab5_1.ip_user_files/ipstatic -lib_map_path [list {modelsim=C:/Users/Asif/VivadoProjects/Lab5_1/Lab5_1.cache/compile_simlib/modelsim} {questa=C:/Users/Asif/VivadoProjects/Lab5_1/Lab5_1.cache/compile_simlib/questa} {riviera=C:/Users/Asif/VivadoProjects/Lab5_1/Lab5_1.cache/compile_simlib/riviera} {activehdl=C:/Users/Asif/VivadoProjects/Lab5_1/Lab5_1.cache/compile_simlib/activehdl}] -use_ip_compiled_libs -force -quiet
+exit
+INFO: [Common 17-206] Exiting Vivado at Tue Jun 20 16:59:43 2023...

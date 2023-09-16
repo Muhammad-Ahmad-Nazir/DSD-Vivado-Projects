@@ -1,0 +1,18 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Mon Jul 17 15:54:35 2023
+# Process ID: 17008
+# Current directory: C:/Users/Asif/VivadoProjects/Lab5_1
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent5352 C:\Users\Asif\VivadoProjects\Lab5_1\Lab5_1.xpr
+# Log file: C:/Users/Asif/VivadoProjects/Lab5_1/vivado.log
+# Journal file: C:/Users/Asif/VivadoProjects/Lab5_1\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/Asif/VivadoProjects/Lab5_1/Lab5_1.xpr
+update_compile_order -fileset sources_1
+launch_simulation
+source Decoder_2x4_Sim.tcl
+synth_design -rtl -name rtl_1
+close_sim
